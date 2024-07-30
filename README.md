@@ -2,7 +2,7 @@
 - 👀 I’m interested in back end developer
 - 🌱 I’m currently learning java
 - 📫 How to reach me darendeliogluberat@gmail.com
-- 😄 Pronouns: his
+- 😄 Pronouns: him
 
 
 <!---
